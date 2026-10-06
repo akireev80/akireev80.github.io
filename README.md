@@ -15,11 +15,7 @@
 
 ### 🛠️ Технологический стек и инструменты
 
-![JavaScript](https://shields.io)
-![TypeScript](https://shields.io)
-![React](https://shields.io)
-![Next.js](https://shields.io)
-![TailwindCSS](https://shields.io)
+React, Next.js, TypeScript, Tailwind CSS, Redux, Zustand, Axios, i18next, Zod
 
 * **Управление состоянием (State Management):** Redux Toolkit, Zustand
 * **Валидация и работа с данными:** Axios, Zod
